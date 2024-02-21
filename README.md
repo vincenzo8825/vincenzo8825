@@ -23,5 +23,5 @@ Welcome to my GitHub space! I am a Front End Web Developer passionate about crea
 - New and exciting challenges with tech sector companies
 
 ## 📫 How to Reach Me
-- Connect with me on [LinkedIn](www.linkedin.com/in/vincenzo-rocca8825)
+- Connect with me on [LinkedIn](http://www.linkedin.com/in/vincenzo-rocca8825)
 - Check out my [Portfolio](http://portfoliorv8825.vercel.app)
