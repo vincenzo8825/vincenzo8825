@@ -1,13 +1,13 @@
-# 👋 Ciao, sono @vincenzo8825
+# 👋 Hi, I'm @vincenzo8825
 
-Benvenuto nel mio spazio GitHub! Sono un Front End Web Developer appassionato di creare interfacce utente accattivanti e funzionali. Amo trasformare le idee in realtà attraverso il codice e sono sempre alla ricerca di nuove appassionanti sfide nel settore tech.
+Welcome to my GitHub space! I am a Front End Web Developer passionate about creating attractive and functional user interfaces. I love turning ideas into reality through code and am always on the lookout for new and exciting challenges in the tech sector.
 
-## 👀 Interessi
-- Sviluppo di interfacce utente intuitive e responsive
-- Contribuire a progetti open source che migliorano l'accessibilità web
-- Esplorare nuove tecnologie e tendenze nello sviluppo front end
+## 👀 Interests
+- Developing intuitive and responsive user interfaces
+- Contributing to open-source projects that improve web accessibility
+- Exploring new technologies and trends in front-end development
 
-## 🌱 Competenze tecniche
+## 🌱 Technical Skills
 - ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
@@ -17,11 +17,11 @@ Benvenuto nel mio spazio GitHub! Sono un Front End Web Developer appassionato di
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 
-## 💞️ Sto cercando di collaborare su
-- Progetti focalizzati sull'usabilità e sull'accessibilità web
-- Iniziative che promuovono la formazione e l'apprendimento continuo tra sviluppatori
-- Nuove e appassionanti sfide con aziende del settore tech
+## 💞️ Looking to Collaborate On
+- Projects focused on usability and web accessibility
+- Initiatives that promote continuous learning and training among developers
+- New and exciting challenges with tech sector companies
 
-## 📫 Come raggiungermi
-- Connettiti con me su [LinkedIn](https://www.linkedin.com/in/vincenzo8825)
-- Dai un'occhiata al mio [Portfolio](http://portfoliorv8825.vercel.app)
+## 📫 How to Reach Me
+- Connect with me on [LinkedIn](www.linkedin.com/in/vincenzo-rocca8825)
+- Check out my [Portfolio](http://portfoliorv8825.vercel.app)
