@@ -7,9 +7,10 @@ Welcome to my GitHub space! I am a Front End Web Developer passionate about crea
 - Contributing to open-source projects that improve web accessibility
 - Exploring new technologies and trends in front-end development
 
-## ## 🌱 Technical Skills
+## 🌱 Technical Skills
 
 - ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)  
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)  
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)  
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)  
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
